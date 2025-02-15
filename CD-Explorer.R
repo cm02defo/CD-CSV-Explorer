@@ -94,6 +94,5 @@ server <- function(input, output) {
 
 shinyApp(ui, server)
 
-library(shiny)
-runGitHub(repo="File-Explore", username="cm02defo"
+
 
